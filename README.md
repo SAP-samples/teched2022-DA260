@@ -1,20 +1,46 @@
-# Session ID - Session Title
+# DA260 - Hands-On Experience with SAP Master Data Governance
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2022 session called Session ID - Session Title.  
+This repository contains the material for the SAP TechEd 2022 session called DA260 - Hands-On Experience with SAP Master Data Governance.  
 
 ## Overview
 
-This session introduces attendees to...
+This session gives you a hands-on introduction into selected topics of SAP Master Data Governance. Please visit the [SAP Master Data Governance community](https://www.sap.com/community/topics/master-data-governance.html) on sap.com for a comprehensive description on the product.
+
+Due to time constraints of a 2 hours session, we selected the following functional areas for exercises:
+
+### Chapter 1: Central Master Data Governance
+
+Estimated Duration: 30 minutes
+
+As a business user, you will request the creation of a new product. Then an expert will add additional product information and an approver will complete the processing of the request until the final creation of the product.
+
+### Chapter 2: Master Data Quality Management
+
+Estimated Duration: 30 minutes
+
+You will analyze the data quality situation in the system using rules that were defined in the system's data quality rule repository. You will drill down from the data quality dashboard to the erroneous product master data and start the correction from there. (During this exercise, we will ask you to pause for the presenter to do some settings in the system that will change the system behavior. It is hence important that all participants start exercise together at the same time.)
+
+### Chapter 3: Master Data Consolidation
+
+Estimated Duration: 20 minutes
+
+You will import product master data from an Excel spreadsheet, cleanse & enrich the data, match the products with existing data in the system, until having consolidated product master data in your master data hub.
 
 ## Requirements
 
-The requirements to follow the exercises in this repository are...
+The system used in this session is using _SAP Master Data Governance on SAP S/4HANA OP 2021_. Please note that even though SAP MDG is delivered together with SAP S/4HANA, additional licenses on top of SAP S/4HANA are required to use SAP Master Data Governance. For more information see the [SAP Master Data Governance community](https://www.sap.com/community/topics/master-data-governance.html) on sap.com.
+
+In this session we will solely use the SAP Fiori Launchpad to access the SAP MDG system. We will not use SAP Logon nor the NetWeaver Business Client environment to access the system.
+
+Each participant in the workshop has their participant number, which you find at your table. This number will be used to distinguish the user ID with which you will log on to the system and the objects that you will handle in the system. During the exercise, you might also see objects belonging to other groups. Make sure to work only with your dedicated user ID and with your own objects, not to disturb the work of your peer groups. Your participant number is written on the sign at your table.
+
+Your user ID to log on is: DAT260-_your participant number_ (for example DA260-04 or DA260-15)
+
+Your password is: _will only be shared on-site_
 
 ## Exercises
-
-Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
 
 - [Getting Started](exercises/ex0/)
 - [Exercise 1 - First Exercise Description](exercises/ex1/)
@@ -24,14 +50,6 @@ Provide the exercise content here directly in README.md using [markdown](https:/
     - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
     - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
 
-  
-**OR** Link to the Tutorial Navigator for example...
-
-Start the exercises [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).
-
-**IMPORTANT**
-
-Your repo must contain the .reuse and LICENSES folder and the License section below. DO NOT REMOVE the section or folders/files. Also, remove all unused template assets(images, folders, etc) from the exercises folder. 
 
 ## How to obtain support
 
