@@ -30,22 +30,23 @@ You will import product master data from an Excel spreadsheet, cleanse & enrich 
 
 ## Requirements
 
-The system used in this session is using _SAP Master Data Governance on SAP S/4HANA OP 2021_. Please note that even though SAP MDG is delivered together with SAP S/4HANA, additional licenses on top of SAP S/4HANA are required to use SAP Master Data Governance. For more information see the [SAP Master Data Governance community](https://www.sap.com/community/topics/master-data-governance.html) on sap.com.
+The system used in this session is based on _SAP Master Data Governance on SAP S/4HANA OP 2021 (Feature Pack 2)_. Please note that even though SAP MDG is delivered together with SAP S/4HANA, additional licenses on top of SAP S/4HANA are required to use SAP Master Data Governance. For more information see the [SAP Master Data Governance community](https://www.sap.com/community/topics/master-data-governance.html) on sap.com.
 
 In this session we will solely use the SAP Fiori Launchpad to access the SAP MDG system. We will not use SAP Logon nor the NetWeaver Business Client environment to access the system.
 
 Each participant in the workshop has their participant number, which you find at your table. This number will be used to distinguish the user ID with which you will log on to the system and the objects that you will handle in the system. During the exercise, you might also see objects belonging to other groups. Make sure to work only with your dedicated user ID and with your own objects, not to disturb the work of your peer groups. Your participant number is written on the sign at your table.
 
-Your user ID to log on is: DAT260-_your participant number_ (for example DA260-04 or DA260-15)
+Your user ID to log on is: _DA260-##_ - ## represents your participant number. For example enter DA260-04 or DA260-23
 
 Your password is: _will only be shared on-site_
 
+Launchpad URL: [https://teched.mdg.cloud.sap:44301/sap/bc/ui2/flp](https://teched.mdg.cloud.sap:44301/sap/bc/ui2/flp)
+
 ## Exercises
 
-- [Getting Started](exercises/ex0/)
-- [Exercise 1 - First Exercise Description](exercises/ex1/)
-    - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
-    - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
+- [Chapter 1 – Request & Approve Material Creation](exercises/ex1/)
+    - [Exercise 1.1 – Logon, search and then request a new material](exercises/ex1#ex1.1)
+    - [Exercise 1.2 – Process and enhance the material request](exercises/ex1#ex1.2)
 - [Exercise 2 - Second Exercise Description](exercises/ex2/)
     - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
     - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
