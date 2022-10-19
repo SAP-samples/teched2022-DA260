@@ -1,44 +1,35 @@
-# Exercise 1 - Exercise 1 Description
+# Chapter 1 - Request & Approve Material Creation
 
-In this exercise, we will create...
+Estimated time: 30 minutes
 
-## Exercise 1.1 Sub Exercise 1 Description {#ex1.1}
+## Objective
 
-After completing these steps you will have created...
+Explore basic features of central governance of master data in SAP MDG, such as multi-person workflows, change request processing, data quality validation, approval and the concept of data staging and activation.
 
-1. Click here.
-<br>![](/exercises/ex1/images/01_01_0010.png)
+## Exercise Description
 
-2.	Insert this line of code.
-```abap
-response->set_text( |Hello World! | ). 
-```
+- Exercise 1.1: As a business user, access the system, search for a material and since you do not find it, request the creation of a new material.
+- Exercise 1.2: As a master data specialist, pick up the change request workflow, provide additional material views and attributes or correct erroneous data and then send the request for approval.
+- Exercise 1.3: As a master data expert, check and approve the request to finalize the creation of a new material in perfect quality.
 
+## Exercise 1.1: Logon, search and then request a new material
 
+In this exercise, you will be a business user requesting a new material. You will send an SAP MDG Change Request which shall be further processed by other users in your company.
 
-## Exercise 1.2 Sub Exercise 2 Description {#ex1.2}
+## Exercise 1.2: Process and enhance the material request
 
-After completing these steps you will have...
+You will now switch roles. In exercise 1.1 you were the business user requesting the material. In exercise 1.2 you will be the master data specialist working on the completion of the master data record. In a real business environment, a different person would execute the following tasks. For simplicity of this workshop, you will also execute these tasks using the same system user.
 
-1.	Enter this code.
-```abap
-DATA(lt_params) = request->get_form_fields(  ).
-READ TABLE lt_params REFERENCE INTO DATA(lr_params) WITH KEY name = 'cmd'.
-  IF sy-subrc <> 0.
-    response->set_status( i_code = 400
-                     i_reason = 'Bad request').
-    RETURN.
-  ENDIF.
+## Exercise 1.3: Approve the request and activate the new material
 
-```
-
-2.	Click here.
-<br>![](/exercises/ex1/images/01_02_0010.png)
-
+In this exercise, you will be the third person involved in the process. As a master data expert, you are in charge to ensure that only high-quality data makes it into the production systems. Again, although this would be a different person in a real business environment, you will also execute these tasks using the same system user.
 
 ## Summary
 
-You've now ...
+You have completed chapter 1. You have learned:
 
-Continue to - [Exercise 2 - Exercise 2 Description](../ex2/README.md)
+- how you can request, enhance, and approve master data changes in different roles in an organization.
+- which possibilities are offered to ensure quality of new master data before it is added to productive (“active”) master data.
+- some capabilities offered to keep track of the change request process.
 
+Continue to - [Exercise 2](../ex2/README.md)

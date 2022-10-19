@@ -45,12 +45,12 @@ Launchpad URL: [https://teched.mdg.cloud.sap:44301/sap/bc/ui2/flp](https://teche
 ## Exercises
 
 - [Chapter 1 – Request & Approve Material Creation](exercises/ex1/)
-    - [Exercise 1.1 – Logon, search and then request a new material](exercises/ex1#ex1.1)
-    - [Exercise 1.2 – Process and enhance the material request](exercises/ex1#ex1.2)
+  - [Exercise 1.1 – Logon, search and then request a new material](exercises/ex1#ex1.1)
+  - [Exercise 1.2 – Process and enhance the material request](exercises/ex1#ex1.2)
+  - [Exercise 1.3 - Approve the request and activate the new material](exercises/ex1#ex1.3)
 - [Exercise 2 - Second Exercise Description](exercises/ex2/)
-    - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
-    - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
-
+  - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
+  - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
 
 ## How to obtain support
 
