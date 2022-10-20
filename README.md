@@ -26,7 +26,7 @@ You will analyze the data quality situation in the system using rules that were 
 
 Estimated Duration: 20 minutes
 
-You will import product master data from an Excel spreadsheet, cleanse & enrich the data, match the products with existing data in the system, until having consolidated product master data in your master data hub.
+You will import business partner master data from an Excel spreadsheet, cleanse & enrich the data, match the business partners with existing data in the system, until having consolidated master data in your master data hub.
 
 ## Requirements
 
@@ -48,13 +48,24 @@ Launchpad URL: [https://teched.mdg.cloud.sap:44301/sap/bc/ui2/flp](https://teche
   - [Exercise 1.1 – Logon, search and then request a new material](exercises/ex1#ex1.1)
   - [Exercise 1.2 – Process and enhance the material request](exercises/ex1#ex1.2)
   - [Exercise 1.3 - Approve the request and activate the new material](exercises/ex1#ex1.3)
-- [Exercise 2 - Second Exercise Description](exercises/ex2/)
-  - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
-  - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
+- [Chapter 2 – Validation rules for master data quality management](exercises/ex2/)
+  - [Exercise 2.1 – Submit request for new customer](exercises/ex2/)
+  - [Exercise 2.2 – Management and definition of validation rules](exercises/ex2/)
+  - [Exercise 2.3 – Re-check requested customer](exercises/ex2/)
+  - [Exercise 2.4 – Find and fix errors in existing data](exercises/ex2/)
+- [Chapter 3 – Consolidation of business partner master data](exercises/ex3/)
+  - [Exercise 3.1 – Import business partners from spreadsheet file](exercises/ex3/)
+  - [Exercise 3.2 - Create and start consolidation process](exercises/ex3/)
+  - [Exercise 3.3 - Validate imported data](exercises/ex3/)
+  - [Exercise 3.4 - Enhance and standardize addresses](exercises/ex3/)
+  - [Exercise 3.5 - Find duplicates](exercises/ex3/)
+  - [Exercise 3.6 - Merge duplicates with best record calculation](exercises/ex3/)
+  - [Exercise 3.5 - Finalize consolidation process](exercises/ex3/)
 
 ## How to obtain support
 
 Support for the content in this repository is available during the actual time of the online session for which this content has been designed. Otherwise, you may request support via the [Issues](../../issues) tab.
 
 ## License
+
 Copyright (c) 2022 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSES/Apache-2.0.txt) file.
