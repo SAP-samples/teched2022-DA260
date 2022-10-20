@@ -4,39 +4,45 @@ Estimated time: 30 minutes
 
 ## Objective
 
-Explore...
+A single source of truth for master data is essential. SAP Master Data Governance lets you integrate data from SAP and non-SAP systems or other sources to reach this goal. In this chapter, you will learn the basics for working with the consolidation capabilities of SAP Master Data Governance. You will start with the import of source data in spreadsheet format and the creation of a consolidation process. Then you will examine the results of each process step. Furthermore, you will learn how to use the match review to understand the result of matching and how to work with match groups and the result of the best record calculation.
 
 ## Exercise Description
 
-- Exercise 3.1: xxx.
+This exercise is split in 7 parts. It is required to perform each step after the other. Please note that besides the short exercise description there is also a detailed [step-by-step description](../supplements/DA260_Exercises_Solutions.pdf) provided.
 
-## Exercise 3.1 – Import business partners from spreadsheet file
+### Exercise 3.1 – Import business partners from spreadsheet file
 
-xxx
+You have some customer data with addresses and phone numbers in a spreadsheet file. You can upload this file into the system using the app Manage Imports.
 
-## Exercise 3.2 - Create and start consolidation process
+Important: Download the spreadsheet Marketing_2021.xlsx to use it in this exercise.
 
-xxx
+### Exercise 3.2 - Create and start consolidation process
 
-## Exercise 3.3 - Validate imported data
+After importing the data from a spreadsheet file, you start a consolidation process.
 
-xxx
+### Exercise 3.3 - Validate imported data
 
-## Exercise 3.4 - Enhance and standardize addresses
+After an initial check you make some manual changes, before you run the matching step to identify duplicates.
 
-xxx
+### Exercise 3.4 - Enhance and standardize addresses
 
-## Exercise 3.5 - Find duplicates
+Automatic enrichment and standardization of addresses.
 
-xxx
+### Exercise 3.5 - Find duplicates
 
-## Exercise 3.6 - Merge duplicates with best record calculation
+After a match review the best record calculation will merge the data of a match group. The validation and activation step will bring the loaded data into the system. After finalizing the process, you are able to check all actions inside this process using the audit trail functionality.
 
-xxx
+### Exercise 3.6 - Merge duplicates with best record calculation
 
-## Exercise 3.5 - Finalize consolidation process
+After a match review the best record calculation will merge the data of a match group. The validation and activation step will bring the loaded data into the system. After finalizing the process, you are able to check all actions inside this process using the audit trail functionality.
 
-xxx
+### Exercise 3.7 - Finalize consolidation process
+
+The validation and activation step will bring the loaded data into the system. After finalizing the process, you are able to check all actions inside this process using the audit trail functionality.
+
+## Step-by-Step Description
+
+Follow [DA260_Exercises_Solutions.pdf](../supplements/DA260_Exercises_Solutions.pdf) to perform this exercise.
 
 ## Summary
 
