@@ -12,9 +12,9 @@ This exercise is split in 7 parts. It is required to perform each step after the
 
 ### Exercise 3.1 – Import business partners from spreadsheet file
 
-You have some customer data with addresses and phone numbers in a spreadsheet file. You can upload this file into the system using the app Manage Imports.
+You have some customer data with addresses and phone numbers in a spreadsheet file. You can upload this file into the system using the app _Manage Imports_.
 
-Important: Download the spreadsheet Marketing_2021.xlsx to use it in this exercise.
+Important: Download the spreadsheet [DA260.xlsx](./DA260.xlsx) to use it in this exercise.
 
 ### Exercise 3.2 - Create and start consolidation process
 
