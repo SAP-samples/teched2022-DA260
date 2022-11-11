@@ -8,6 +8,8 @@ This repository contains the material for the SAP TechEd 2022 session called DA2
 
 This session gives you a hands-on introduction into selected topics of SAP Master Data Governance. Please visit the [SAP Master Data Governance community](https://www.sap.com/community/topics/master-data-governance.html) on sap.com for a comprehensive description on the product.
 
+As an introduction to the hands-on session we provide a brief [overview of SAP Master Data Governance](./exercises/supplements/DA260_SAPTechEd_2022.pdf).
+
 Due to time constraints of a 2 hours session, we selected the following functional areas for exercises:
 
 ### Chapter 1: Central Master Data Governance
