@@ -12,7 +12,7 @@ Due to time constraints of a 2 hours session, we selected the following function
 
 ### Chapter 1: Central Master Data Governance
 
-Estimated Duration: 30 minutes
+Estimated Duration: 25 minutes
 
 As a business user, you will request the creation of a new product. Then an expert will add additional product information and an approver will complete the processing of the request until the final creation of the product.
 
@@ -20,13 +20,15 @@ As a business user, you will request the creation of a new product. Then an expe
 
 Estimated Duration: 30 minutes
 
-You will analyze the data quality situation in the system using rules that were defined in the system's data quality rule repository. You will drill down from the data quality dashboard to the erroneous product master data and start the correction from there. (During this exercise, we will ask you to pause for the presenter to do some settings in the system that will change the system behavior. It is hence important that all participants start exercise together at the same time.)
+You will see how validation rules can be used to ensure data quality. Validation rules are used to check data at the time of entry, for example when creating a customer. You will also see how changes in your organization’s definition of data quality can be handled by identifying data that needs updates and how to correct such data efficiently using mass processing. Furthermore, you will use duplicate prevention and address enrichment as additional features related to data quality.
+
+_Important_: During this exercise, we will ask you to pause for the presenter to do some settings in the system that will change the system behavior. It is hence important that all participants start exercise 3 of this chapter only after this change.
 
 ### Chapter 3: Master Data Consolidation
 
-Estimated Duration: 20 minutes
+Estimated Duration: 30 minutes
 
-You will import business partner master data from an Excel spreadsheet, cleanse & enrich the data, match the business partners with existing data in the system, until having consolidated master data in your master data hub.
+You will import business partner master data from an Excel spreadsheet, cleanse & enrich the data, match the uploaded business partners with existing data in the system. You will also experience derivation of data to automate the process until having consolidated master data.
 
 ## Requirements
 
@@ -40,7 +42,7 @@ Your user ID to log on is: _DA260-##_ - ## represents your participant number. F
 
 Your password is: _will only be shared on-site_
 
-Launchpad URL: [https://teched.mdg.cloud.sap:44301/sap/bc/ui2/flp](https://teched.mdg.cloud.sap:44301/sap/bc/ui2/flp)
+Launchpad URL: _will only be shared on-site_
 
 ## Exercises
 
@@ -60,7 +62,8 @@ Launchpad URL: [https://teched.mdg.cloud.sap:44301/sap/bc/ui2/flp](https://teche
   - [Exercise 3.4 - Enhance and standardize addresses](exercises/ex3/)
   - [Exercise 3.5 - Find duplicates](exercises/ex3/)
   - [Exercise 3.6 - Merge duplicates with best record calculation](exercises/ex3/)
-  - [Exercise 3.5 - Finalize consolidation process](exercises/ex3/)
+  - [Exercise 3.7 – Automated creation of ERP customer data](exercises/ex3/)
+  - [Exercise 3.8 - Finalize consolidation process](exercises/ex3/)
 
 ## How to obtain support
 

@@ -1,4 +1,4 @@
-# Chapter 2 - Consolidation of business partner master data
+# Chapter 3 - Consolidation of business partner master data
 
 Estimated time: 30 minutes
 
@@ -35,6 +35,9 @@ After a match review the best record calculation will merge the data of a match 
 ### Exercise 3.6 - Merge duplicates with best record calculation
 
 After a match review the best record calculation will merge the data of a match group. The validation and activation step will bring the loaded data into the system. After finalizing the process, you are able to check all actions inside this process using the audit trail functionality.
+
+### Exercise 3.7 – Automated creation of ERP customer data
+
 
 ### Exercise 3.7 - Finalize consolidation process
 
