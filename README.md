@@ -44,7 +44,9 @@ In this session we will solely use the SAP Fiori Launchpad to access the SAP MDG
 
 Each participant in the workshop has their participant number, which you find at your table. This number will be used to distinguish the user ID with which you will log on to the system and the objects that you will handle in the system. During the exercise, you might also see objects belonging to other groups. Make sure to work only with your dedicated user ID and with your own objects, not to disturb the work of your peer groups. Your participant number is written on the sign at your table.
 
-Your user ID to log on is: _DA260-##_ - ## represents your participant number. For example enter DA260-04 or DA260-23
+Your user ID to log on is: _DA260-##_ - ## represents your participant number.
+
+For example enter DA260-04 or DA260-23
 
 Your password is: _will only be shared on-site_
 
