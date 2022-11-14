@@ -1,5 +1,9 @@
 # DA260 - Hands-On Experience with SAP Master Data Governance
 
+The system is only accessible at TechEd hands-on lab in Las Vegas!
+
+Launchpad URL: <https://teched.mdg.cloud.sap/sap/bc/ui2/flp>
+
 ## Description
 
 This repository contains the material for the SAP TechEd 2022 session called DA260 - Hands-On Experience with SAP Master Data Governance.  
@@ -43,8 +47,6 @@ Each participant in the workshop has their participant number, which you find at
 Your user ID to log on is: _DA260-##_ - ## represents your participant number. For example enter DA260-04 or DA260-23
 
 Your password is: _will only be shared on-site_
-
-Launchpad URL: _will only be shared on-site_
 
 ## Exercises
 
