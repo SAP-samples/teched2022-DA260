@@ -1,3 +1,5 @@
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2022-DA260)](https://api.reuse.software/info/github.com/SAP-samples/teched2022-DA260)
+
 # DA260 - Hands-On Experience with SAP Master Data Governance
 
 The system is only accessible at TechEd hands-on lab in Las Vegas!
